@@ -22,7 +22,7 @@ namespace SistemaBancario.DAL
                     Apellido,
                     DNI,
                     NombreUsuario,
-                    Constrasena,
+                    Contrasena,
                     Saldo,
                     Activo,
                     Rol
